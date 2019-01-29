@@ -1,3 +1,8 @@
+# Alex's notes
+
+This fork is designed to run on Digital Ocean Ubuntu 18.04 LTS, using Docker. Run ```./docker_start.sh``` to start.
+
+
 <img src="https://cdn.rawgit.com/decidim/decidim/master/logo.svg" alt="Decidim Logo" width="400">
 
 The participatory democracy framework.
