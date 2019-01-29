@@ -6,7 +6,7 @@ services:
     command: decidim
     working_dir: /code
     ports:
-      - 3000:3000
+      - 3456:3000
     volumes:
       - .:/code
       - gems:/usr/local/bundle:delegated
